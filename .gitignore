@@ -9,6 +9,3 @@ node_modules
 # Unwanted
 .idea
 .DS_Store
-
-# Build files
-index.cjs.js
